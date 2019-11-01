@@ -18,7 +18,7 @@ A collection of .NET concepts encountered during study.
 
 <h2>Goals</h2>
 	<ul>
-		<li>Accept a pull request from one contributor (excluding myself).</li>
+		<li>Accept pull requests from three different contributors (excluding myself).</li>
 	</ul>
   
 <h2>Tasks</h2>
