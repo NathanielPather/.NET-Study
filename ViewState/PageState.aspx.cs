@@ -27,8 +27,8 @@ namespace PageState {
             Response.Write(ViewState["key"]);
             Response.Write("<br>");
 
-            // View State Documentation.
-
+            // View State Documentation - link added
+            Response.Write("Read more <a href='https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.statebag?view=netframework-4.8'>here<a/>");
         }
     }
 }
