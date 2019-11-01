@@ -23,13 +23,13 @@ A collection of .NET concepts encountered during study.
   
 <h2>Tasks</h2>
 	<ul>
-		<li>Upload view state concept.</li>
+		<li>Upload session state concept.</li>
 		<li>Create main contributor guidelines.</li>
 		<li>Create first time contributor guidelines.</li>
-		<li>Create first time contributor issue for view state concept.</li>
+		<li>Create first time contributor issue for session state concept.</li>
 	</ul>
 
 <h2>Milestones</h2>
 	<ul>
-		<li>No milestones reached.</li>
+		<li>First pull request - <a href="https://github.com/evanSpendlove">Evan Spendlove</a>.</li>
 	</ul>
